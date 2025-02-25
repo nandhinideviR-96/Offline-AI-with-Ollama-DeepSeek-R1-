@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "ollama.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'ollama.endpoint'"
+  },
+  {
+    "name": "ollama.timeout.read",
+    "type": "java.lang.String",
+    "description": "A description for 'ollama.timeout.read'"
+  },
+  {
+    "name": "ollama.model",
+    "type": "java.lang.String",
+    "description": "A description for 'ollama.model'"
+  },
+  {
+    "name": "ollama.timeout.connect",
+    "type": "java.lang.String",
+    "description": "A description for 'ollama.timeout.connect'"
+  }
+]}
