@@ -1,0 +1,1 @@
+# Offline-AI-with-Ollama-DeepSeek-R1-
